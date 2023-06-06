@@ -16,18 +16,19 @@ You will also see any lint errors in the console.
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
 To learn React, check out the [React documentation](https://reactjs.org/).
+# Blog application
 
-### Advanced Configuration
+- JWT Authentication Flow for User Signup & User Login
+- Project Structure for React Typescript Authentication (without Redux) with React Router & Axios
+- Creating React Components with Form Validation using Formik and Yup
+- React Typescript Components for accessing protected Resources (Authorization)
+- Dynamic Navigation Bar in React Typescript App
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+## Tech stack
 
-### Deployment
+React, Redux, Typescript, TailwindCSS
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-### `npm build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
